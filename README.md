@@ -1,1 +1,3 @@
 # SampleRepo
+
+Adding the points 
